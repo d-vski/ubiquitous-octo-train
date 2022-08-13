@@ -1,0 +1,46 @@
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#EXTINF:-1,Канал 5
+http://51.195.90.133:8081/tvstanici/2/playlist.m3u8|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#EXTINF:-1,Телма
+http://135.125.204.34:8081/tvstanici/3/playlist.m3u8|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#EXTINF:-1,Алфа
+http://135.125.204.34:8081/tvstanici/4/playlist.m3u8|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1,24 Вести
+http://135.125.204.34:8081/tvstanici/5/playlist.m3u8|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#EXTINF:-1,МРТ 1
+http://135.125.204.34:8081/tvstanici/6/playlist.m3u8|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#EXTINF:-1,МРТ 1
+http://135.125.204.34:8081/tvstanici/6/playlist.m3u8|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
